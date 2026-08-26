@@ -156,3 +156,15 @@ body {
     font-size: 22px;
   }
 }
+.cover-section {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    line-height: 0;
+}
+
+.cover-image {
+    width: 100%;
+    height: auto;
+    display: block;
+}
